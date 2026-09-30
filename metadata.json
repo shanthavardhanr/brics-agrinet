@@ -1,0 +1,10 @@
+{
+  "name": "BRICS AgriNet - Interoperable Digital Agriculture Network",
+  "description": "A digital public good delivering AI agro-advisories, satellite vegetation & climate forecasting, soil health analytics, crop disease diagnosis, and cross-border data cooperation across BRICS nations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
